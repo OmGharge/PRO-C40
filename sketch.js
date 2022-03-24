@@ -1,4 +1,4 @@
-var Game;
+
 var database;
 var back_img;
 var gameState =0;
